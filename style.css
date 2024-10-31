@@ -1,0 +1,124 @@
+body {
+  
+  background-color:#61677A; 
+  color: black;
+  ;
+  font-size: ;
+  font-weight: ;
+  text-decoration: ;
+     }
+
+   h1 {
+   font-family :"Pacifico", cursive;
+   color: #FFD369;
+   text-decoration: underline;
+
+   }
+
+   h2, h3 {
+   
+  font-family:"Pacifico", cursive;
+  font-weight: 100;
+  font-style: normal;
+  color: #FFD369;
+   text-decoration: underline
+   }
+
+   a {
+   color: #222831;
+   text-decoration:  ; 
+   font-family:"Pacifico", cursive;
+   }
+
+   a:hover {
+   color: #FFD369;
+
+
+   }
+
+   p{
+font-family:"Lexend";
+color:#222831;
+   }
+
+   ul{
+   color:#222831;
+   font-family:"Lexend"
+ 
+   	}
+
+   	h4 {
+   color: #222831 ;
+   font-family:"Lexend"  
+   	}
+
+      img{ 
+  border-radius: 20%;
+}
+
+#61677A
+
+#61677A
+
+
+.container{
+width: 700px;
+margin: 40px auto;
+}
+
+
+@media (max-width:760px) {
+   .container {
+      width: 600px;
+   }
+}
+
+@media (max-width: 500px) {
+.container {
+   width: 400px;
+}
+}
+
+
+
+
+.card-white {
+background-color: white;
+border-radius: 30px;
+box-shadow: 0px 10px 30px;
+text-align: center;
+margin: 100px;
+padding: 70px; 
+
+}
+
+.btn-yellow {
+ background-color: #FFD369;
+ padding: 15px 20px;
+ border-radius: 4px;
+ color:white;
+}
+
+.btn-yellow:hover {
+
+   color:black;
+
+}
+
+.img-circle {
+
+border-radius: 50px;
+}
+
+.list-inline {
+list-style: none ;
+padding-left:Opx;
+}
+.list-inline li {
+
+   
+}
+
+
+
+
